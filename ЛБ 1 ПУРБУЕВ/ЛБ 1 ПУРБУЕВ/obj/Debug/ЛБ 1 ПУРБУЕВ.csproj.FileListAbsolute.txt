@@ -1,0 +1,12 @@
+C:\Users\Лаборант\source\repos\ЛБ 1 ПУРБУЕВ\ЛБ 1 ПУРБУЕВ\bin\Debug\ЛБ 1 ПУРБУЕВ.exe.config
+C:\Users\Лаборант\source\repos\ЛБ 1 ПУРБУЕВ\ЛБ 1 ПУРБУЕВ\bin\Debug\ЛБ 1 ПУРБУЕВ.exe
+C:\Users\Лаборант\source\repos\ЛБ 1 ПУРБУЕВ\ЛБ 1 ПУРБУЕВ\bin\Debug\ЛБ 1 ПУРБУЕВ.pdb
+C:\Users\Лаборант\source\repos\ЛБ 1 ПУРБУЕВ\ЛБ 1 ПУРБУЕВ\obj\Debug\ЛБ 1 ПУРБУЕВ.csproj.AssemblyReference.cache
+C:\Users\Лаборант\source\repos\ЛБ 1 ПУРБУЕВ\ЛБ 1 ПУРБУЕВ\obj\Debug\ЛБ_1_ПУРБУЕВ.Form1.resources
+C:\Users\Лаборант\source\repos\ЛБ 1 ПУРБУЕВ\ЛБ 1 ПУРБУЕВ\obj\Debug\ЛБ_1_ПУРБУЕВ.Properties.Resources.resources
+C:\Users\Лаборант\source\repos\ЛБ 1 ПУРБУЕВ\ЛБ 1 ПУРБУЕВ\obj\Debug\ЛБ 1 ПУРБУЕВ.csproj.GenerateResource.cache
+C:\Users\Лаборант\source\repos\ЛБ 1 ПУРБУЕВ\ЛБ 1 ПУРБУЕВ\obj\Debug\ЛБ 1 ПУРБУЕВ.csproj.CoreCompileInputs.cache
+C:\Users\Лаборант\source\repos\ЛБ 1 ПУРБУЕВ\ЛБ 1 ПУРБУЕВ\obj\Debug\ЛБ 1 ПУРБУЕВ.exe
+C:\Users\Лаборант\source\repos\ЛБ 1 ПУРБУЕВ\ЛБ 1 ПУРБУЕВ\obj\Debug\ЛБ 1 ПУРБУЕВ.pdb
+C:\Users\Лаборант\source\repos\ЛБ 1 ПУРБУЕВ\ЛБ 1 ПУРБУЕВ\obj\Debug\ЛБ 1 ПУРБУЕВ.exe.config
+C:\Users\Лаборант\source\repos\ЛБ 1 ПУРБУЕВ\ЛБ 1 ПУРБУЕВ\obj\Debug\ЛБ_1_ПУРБУЕВ.AboutBox1.resources
