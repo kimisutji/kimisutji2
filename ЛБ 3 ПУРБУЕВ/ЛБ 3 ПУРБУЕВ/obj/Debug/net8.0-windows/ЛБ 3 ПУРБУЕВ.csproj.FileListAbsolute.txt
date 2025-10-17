@@ -1,0 +1,34 @@
+C:\Users\Лаборант\source\repos\ЛБ 3 ПУРБУЕВ\ЛБ 3 ПУРБУЕВ\bin\Debug\net8.0-windows\ЛБ 3 ПУРБУЕВ.exe
+C:\Users\Лаборант\source\repos\ЛБ 3 ПУРБУЕВ\ЛБ 3 ПУРБУЕВ\bin\Debug\net8.0-windows\ЛБ 3 ПУРБУЕВ.deps.json
+C:\Users\Лаборант\source\repos\ЛБ 3 ПУРБУЕВ\ЛБ 3 ПУРБУЕВ\bin\Debug\net8.0-windows\ЛБ 3 ПУРБУЕВ.runtimeconfig.json
+C:\Users\Лаборант\source\repos\ЛБ 3 ПУРБУЕВ\ЛБ 3 ПУРБУЕВ\bin\Debug\net8.0-windows\ЛБ 3 ПУРБУЕВ.dll
+C:\Users\Лаборант\source\repos\ЛБ 3 ПУРБУЕВ\ЛБ 3 ПУРБУЕВ\bin\Debug\net8.0-windows\ЛБ 3 ПУРБУЕВ.pdb
+C:\Users\Лаборант\source\repos\ЛБ 3 ПУРБУЕВ\ЛБ 3 ПУРБУЕВ\obj\Debug\net8.0-windows\ЛБ_3_ПУРБУЕВ.Form1.resources
+C:\Users\Лаборант\source\repos\ЛБ 3 ПУРБУЕВ\ЛБ 3 ПУРБУЕВ\obj\Debug\net8.0-windows\ЛБ 3 ПУРБУЕВ.csproj.GenerateResource.cache
+C:\Users\Лаборант\source\repos\ЛБ 3 ПУРБУЕВ\ЛБ 3 ПУРБУЕВ\obj\Debug\net8.0-windows\ЛБ 3 ПУРБУЕВ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Лаборант\source\repos\ЛБ 3 ПУРБУЕВ\ЛБ 3 ПУРБУЕВ\obj\Debug\net8.0-windows\ЛБ 3 ПУРБУЕВ.AssemblyInfoInputs.cache
+C:\Users\Лаборант\source\repos\ЛБ 3 ПУРБУЕВ\ЛБ 3 ПУРБУЕВ\obj\Debug\net8.0-windows\ЛБ 3 ПУРБУЕВ.AssemblyInfo.cs
+C:\Users\Лаборант\source\repos\ЛБ 3 ПУРБУЕВ\ЛБ 3 ПУРБУЕВ\obj\Debug\net8.0-windows\ЛБ 3 ПУРБУЕВ.csproj.CoreCompileInputs.cache
+C:\Users\Лаборант\source\repos\ЛБ 3 ПУРБУЕВ\ЛБ 3 ПУРБУЕВ\obj\Debug\net8.0-windows\ЛБ 3 ПУРБУЕВ.dll
+C:\Users\Лаборант\source\repos\ЛБ 3 ПУРБУЕВ\ЛБ 3 ПУРБУЕВ\obj\Debug\net8.0-windows\refint\ЛБ 3 ПУРБУЕВ.dll
+C:\Users\Лаборант\source\repos\ЛБ 3 ПУРБУЕВ\ЛБ 3 ПУРБУЕВ\obj\Debug\net8.0-windows\ЛБ 3 ПУРБУЕВ.pdb
+C:\Users\Лаборант\source\repos\ЛБ 3 ПУРБУЕВ\ЛБ 3 ПУРБУЕВ\obj\Debug\net8.0-windows\ЛБ 3 ПУРБУЕВ.genruntimeconfig.cache
+C:\Users\Лаборант\source\repos\ЛБ 3 ПУРБУЕВ\ЛБ 3 ПУРБУЕВ\obj\Debug\net8.0-windows\ref\ЛБ 3 ПУРБУЕВ.dll
+C:\Users\Лаборант\source\repos\ЛБ 3 ПУРБУЕВ\ЛБ 3 ПУРБУЕВ\obj\Debug\net8.0-windows\ЛБ_3_ПУРБУЕВ.Properties.Resources.resources
+F:\ЛБ 3 ПУРБУЕВ\ЛБ 3 ПУРБУЕВ\bin\Debug\net8.0-windows\ЛБ 3 ПУРБУЕВ.exe
+F:\ЛБ 3 ПУРБУЕВ\ЛБ 3 ПУРБУЕВ\bin\Debug\net8.0-windows\ЛБ 3 ПУРБУЕВ.deps.json
+F:\ЛБ 3 ПУРБУЕВ\ЛБ 3 ПУРБУЕВ\bin\Debug\net8.0-windows\ЛБ 3 ПУРБУЕВ.runtimeconfig.json
+F:\ЛБ 3 ПУРБУЕВ\ЛБ 3 ПУРБУЕВ\bin\Debug\net8.0-windows\ЛБ 3 ПУРБУЕВ.dll
+F:\ЛБ 3 ПУРБУЕВ\ЛБ 3 ПУРБУЕВ\bin\Debug\net8.0-windows\ЛБ 3 ПУРБУЕВ.pdb
+F:\ЛБ 3 ПУРБУЕВ\ЛБ 3 ПУРБУЕВ\obj\Debug\net8.0-windows\ЛБ_3_ПУРБУЕВ.Form1.resources
+F:\ЛБ 3 ПУРБУЕВ\ЛБ 3 ПУРБУЕВ\obj\Debug\net8.0-windows\ЛБ_3_ПУРБУЕВ.Properties.Resources.resources
+F:\ЛБ 3 ПУРБУЕВ\ЛБ 3 ПУРБУЕВ\obj\Debug\net8.0-windows\ЛБ 3 ПУРБУЕВ.csproj.GenerateResource.cache
+F:\ЛБ 3 ПУРБУЕВ\ЛБ 3 ПУРБУЕВ\obj\Debug\net8.0-windows\ЛБ 3 ПУРБУЕВ.GeneratedMSBuildEditorConfig.editorconfig
+F:\ЛБ 3 ПУРБУЕВ\ЛБ 3 ПУРБУЕВ\obj\Debug\net8.0-windows\ЛБ 3 ПУРБУЕВ.AssemblyInfoInputs.cache
+F:\ЛБ 3 ПУРБУЕВ\ЛБ 3 ПУРБУЕВ\obj\Debug\net8.0-windows\ЛБ 3 ПУРБУЕВ.AssemblyInfo.cs
+F:\ЛБ 3 ПУРБУЕВ\ЛБ 3 ПУРБУЕВ\obj\Debug\net8.0-windows\ЛБ 3 ПУРБУЕВ.csproj.CoreCompileInputs.cache
+F:\ЛБ 3 ПУРБУЕВ\ЛБ 3 ПУРБУЕВ\obj\Debug\net8.0-windows\ЛБ 3 ПУРБУЕВ.dll
+F:\ЛБ 3 ПУРБУЕВ\ЛБ 3 ПУРБУЕВ\obj\Debug\net8.0-windows\refint\ЛБ 3 ПУРБУЕВ.dll
+F:\ЛБ 3 ПУРБУЕВ\ЛБ 3 ПУРБУЕВ\obj\Debug\net8.0-windows\ЛБ 3 ПУРБУЕВ.pdb
+F:\ЛБ 3 ПУРБУЕВ\ЛБ 3 ПУРБУЕВ\obj\Debug\net8.0-windows\ЛБ 3 ПУРБУЕВ.genruntimeconfig.cache
+F:\ЛБ 3 ПУРБУЕВ\ЛБ 3 ПУРБУЕВ\obj\Debug\net8.0-windows\ref\ЛБ 3 ПУРБУЕВ.dll
