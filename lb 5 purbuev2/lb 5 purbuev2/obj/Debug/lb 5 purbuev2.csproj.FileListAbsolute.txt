@@ -1,0 +1,10 @@
+C:\Users\3230-PC-2\source\repos\lb 5 purbuev2\lb 5 purbuev2\bin\Debug\lb 5 purbuev2.exe.config
+C:\Users\3230-PC-2\source\repos\lb 5 purbuev2\lb 5 purbuev2\bin\Debug\lb 5 purbuev2.exe
+C:\Users\3230-PC-2\source\repos\lb 5 purbuev2\lb 5 purbuev2\bin\Debug\lb 5 purbuev2.pdb
+C:\Users\3230-PC-2\source\repos\lb 5 purbuev2\lb 5 purbuev2\obj\Debug\lb 5 purbuev2.csproj.AssemblyReference.cache
+C:\Users\3230-PC-2\source\repos\lb 5 purbuev2\lb 5 purbuev2\obj\Debug\lb_5_purbuev2.Form1.resources
+C:\Users\3230-PC-2\source\repos\lb 5 purbuev2\lb 5 purbuev2\obj\Debug\lb_5_purbuev2.Properties.Resources.resources
+C:\Users\3230-PC-2\source\repos\lb 5 purbuev2\lb 5 purbuev2\obj\Debug\lb 5 purbuev2.csproj.GenerateResource.cache
+C:\Users\3230-PC-2\source\repos\lb 5 purbuev2\lb 5 purbuev2\obj\Debug\lb 5 purbuev2.csproj.CoreCompileInputs.cache
+C:\Users\3230-PC-2\source\repos\lb 5 purbuev2\lb 5 purbuev2\obj\Debug\lb 5 purbuev2.exe
+C:\Users\3230-PC-2\source\repos\lb 5 purbuev2\lb 5 purbuev2\obj\Debug\lb 5 purbuev2.pdb
