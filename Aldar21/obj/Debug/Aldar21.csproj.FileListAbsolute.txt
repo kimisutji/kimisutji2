@@ -1,0 +1,42 @@
+C:\Users\3230-ПК-5\Desktop\лабы\Aldar21\bin\Debug\Aldar21.exe.config
+C:\Users\3230-ПК-5\Desktop\лабы\Aldar21\bin\Debug\Aldar21.exe
+C:\Users\3230-ПК-5\Desktop\лабы\Aldar21\bin\Debug\Aldar21.pdb
+C:\Users\3230-ПК-5\Desktop\лабы\Aldar21\obj\Debug\Aldar21.csproj.AssemblyReference.cache
+C:\Users\3230-ПК-5\Desktop\лабы\Aldar21\obj\Debug\MainWindow.baml
+C:\Users\3230-ПК-5\Desktop\лабы\Aldar21\obj\Debug\MainWindow.g.cs
+C:\Users\3230-ПК-5\Desktop\лабы\Aldar21\obj\Debug\App.g.cs
+C:\Users\3230-ПК-5\Desktop\лабы\Aldar21\obj\Debug\Aldar21_MarkupCompile.cache
+C:\Users\3230-ПК-5\Desktop\лабы\Aldar21\obj\Debug\Aldar21.g.resources
+C:\Users\3230-ПК-5\Desktop\лабы\Aldar21\obj\Debug\Aldar21.Properties.Resources.resources
+C:\Users\3230-ПК-5\Desktop\лабы\Aldar21\obj\Debug\Aldar21.csproj.GenerateResource.cache
+C:\Users\3230-ПК-5\Desktop\лабы\Aldar21\obj\Debug\Aldar21.csproj.CoreCompileInputs.cache
+C:\Users\3230-ПК-5\Desktop\лабы\Aldar21\obj\Debug\Aldar21.exe
+C:\Users\3230-ПК-5\Desktop\лабы\Aldar21\obj\Debug\Aldar21.pdb
+D:\МДК\Лабарторные работы\Aldar21\bin\Debug\Aldar21.exe.config
+D:\МДК\Лабарторные работы\Aldar21\bin\Debug\Aldar21.exe
+D:\МДК\Лабарторные работы\Aldar21\bin\Debug\Aldar21.pdb
+D:\МДК\Лабарторные работы\Aldar21\obj\Debug\Aldar21.csproj.AssemblyReference.cache
+D:\МДК\Лабарторные работы\Aldar21\obj\Debug\MainWindow.baml
+D:\МДК\Лабарторные работы\Aldar21\obj\Debug\MainWindow.g.cs
+D:\МДК\Лабарторные работы\Aldar21\obj\Debug\App.g.cs
+D:\МДК\Лабарторные работы\Aldar21\obj\Debug\Aldar21_MarkupCompile.cache
+D:\МДК\Лабарторные работы\Aldar21\obj\Debug\Aldar21.g.resources
+D:\МДК\Лабарторные работы\Aldar21\obj\Debug\Aldar21.Properties.Resources.resources
+D:\МДК\Лабарторные работы\Aldar21\obj\Debug\Aldar21.csproj.GenerateResource.cache
+D:\МДК\Лабарторные работы\Aldar21\obj\Debug\Aldar21.csproj.CoreCompileInputs.cache
+D:\МДК\Лабарторные работы\Aldar21\obj\Debug\Aldar21.exe
+D:\МДК\Лабарторные работы\Aldar21\obj\Debug\Aldar21.pdb
+E:\МДК\Лабарторные работы\Aldar21\bin\Debug\Aldar21.exe.config
+E:\МДК\Лабарторные работы\Aldar21\bin\Debug\Aldar21.exe
+E:\МДК\Лабарторные работы\Aldar21\bin\Debug\Aldar21.pdb
+E:\МДК\Лабарторные работы\Aldar21\obj\Debug\Aldar21.csproj.AssemblyReference.cache
+E:\МДК\Лабарторные работы\Aldar21\obj\Debug\MainWindow.baml
+E:\МДК\Лабарторные работы\Aldar21\obj\Debug\MainWindow.g.cs
+E:\МДК\Лабарторные работы\Aldar21\obj\Debug\App.g.cs
+E:\МДК\Лабарторные работы\Aldar21\obj\Debug\Aldar21_MarkupCompile.cache
+E:\МДК\Лабарторные работы\Aldar21\obj\Debug\Aldar21.g.resources
+E:\МДК\Лабарторные работы\Aldar21\obj\Debug\Aldar21.Properties.Resources.resources
+E:\МДК\Лабарторные работы\Aldar21\obj\Debug\Aldar21.csproj.GenerateResource.cache
+E:\МДК\Лабарторные работы\Aldar21\obj\Debug\Aldar21.csproj.CoreCompileInputs.cache
+E:\МДК\Лабарторные работы\Aldar21\obj\Debug\Aldar21.exe
+E:\МДК\Лабарторные работы\Aldar21\obj\Debug\Aldar21.pdb
